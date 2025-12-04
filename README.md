@@ -1,7 +1,6 @@
 # Situação Problema: Desenvolvimento de uma plataforma de saúde em Python <img align="center" alt="Fontes-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
----
-## *Contexto* 📝
+## - *Contexto* 📝
 
 *A cidade de São Lucas tem crescido rapidamente, e com ela, também cresceu a demanda por serviços de saúde
 de qualidade.*
@@ -22,7 +21,7 @@ um sistema de gestão da clínica.*
 - ***Geração de relatórios mensais para a administração;***
 
 ---
-## *Problema* 🚨
+## - *Problema* 🚨
 
 *Desenvolva um programa em Python que:*
 
@@ -44,7 +43,7 @@ um sistema de gestão da clínica.*
 - *Trate possíveis erros de entrada*
 - *O programa deve funcionar em loop até o usuário escolher sair*
 
-## *Exemplo de execução esperada*
+## - *Exemplo de execução esperada*
 
 === SISTEMA CLÍNICA VIDA+ ===
 1. Cadastrar paciente
